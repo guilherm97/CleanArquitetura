@@ -1,4 +1,4 @@
 # CleanArquitetura
 
--[] SOLID
--[] Design pattern mediator
+- [ ] SOLID
+- [ ] Design pattern mediator
